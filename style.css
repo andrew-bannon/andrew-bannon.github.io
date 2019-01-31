@@ -1,0 +1,13 @@
+body { background: lightblue;
+        color: maroon;
+        font-size: 14pt; }
+body {font-family: 'Baloo Thambi', cursive;}
+
+h1 { font-size: 300%;
+font-weight: bold;
+color: crimson; }
+
+h2 { font-size: 150%;
+font-style: italic }
+
+nav a { display: inline-block }
